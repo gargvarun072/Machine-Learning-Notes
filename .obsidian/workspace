@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "1749428c2cec7eb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace217fdf408cba1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Video Url.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a95cccd47719a576",
+    "type": "split",
+    "children": [
+      {
+        "id": "62323612f89eb74c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d46a8100901966",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d477cb19a8b44dc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 175
+  },
+  "right": {
+    "id": "5f38c48142068b32",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8c65e52d5d9f808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82db61a73653a940",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Video Url.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ace217fdf408cba1",
+  "lastOpenFiles": [
+    "Video Url.md",
+    "Support Vector Machine.md",
+    "Untitled.md",
+    "Type of Machine Learning.md",
+    "Type of ML/Type of ML.md",
+    "Supervised Learning.md",
+    "Reinforcement Learning.md"
+  ]
+}
